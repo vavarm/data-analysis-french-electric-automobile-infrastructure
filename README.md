@@ -1,8 +1,10 @@
 # Data analysis French electric automobile infrastructure
 
-Data analysis project of students of Polytech Montpellier.
+Data analysis project realized in **R Shiny** and **Python** by students of Polytech Montpellier.
 
-Realized in **R Shiny** and **Python** about the **French electric vehicle and charging station infrastructure**.
+The subject is: **French electric vehicle and charging station infrastructure**.
+
+The problem is: How is France's automotive electrical infrastructure progressing? Is it sufficient to enable a complete switch to electric vehicles? Are the players in the electric sector moving in this direction?
 
 ## Report
 
