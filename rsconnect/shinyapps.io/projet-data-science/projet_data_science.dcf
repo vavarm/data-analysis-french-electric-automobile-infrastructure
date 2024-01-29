@@ -1,0 +1,10 @@
+name: projet_data_science
+title:
+username: projet-data-science
+account: projet-data-science
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10959247
+bundleId: 8157986
+url: https://projet-data-science.shinyapps.io/projet_data_science/
+version: 1

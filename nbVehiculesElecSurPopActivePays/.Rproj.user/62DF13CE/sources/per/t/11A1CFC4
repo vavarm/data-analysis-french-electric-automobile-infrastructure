@@ -1,0 +1,24 @@
+{
+    "id": "11A1CFC4",
+    "path": "C:/Users/varm/OneDrive/IG4/Projet Data Science/nbVehiculesElecSurPopActivePays/data/etl.csv",
+    "project_path": "data/etl.csv",
+    "type": "text",
+    "hash": "532094956",
+    "contents": "",
+    "dirty": false,
+    "created": 1701862346612.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1701862335,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701862335,
+    "read_only": false,
+    "read_only_alternatives": []
+}
